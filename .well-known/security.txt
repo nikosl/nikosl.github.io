@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:nikosleiv@gmail.com
+Expires: 2027-01-01T10:00:00.000Z
+Encryption: https://nikosl.github.io/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://nikosl.github.io/.well-known/security­.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEHrwPrs5rhUEApGqlMijFq/L4zVAFAmIBXkAACgkQMijFq/L4
+zVBaYxAAkEkictYlwMCVuMyg1hJ+7kvOgE5KV1mJETSSHHVlxVTOvhrTaRJvXd0v
+Xw9iPIaq1bdxR65RGOST00tbxucjhTrv6mLtBAgKgBOdbSEhri+mkpNxRMD8GL4Q
+qSfmEH14ywyYe5e6ud7wfSFadL8nhuSotVwejJc11t1aqjaa7IjE1hdgKVHvqWGy
+oAIohlYPv7sJH4RxF8lnQzDZRhQd8grQqhYHYvyc/flr5XINPd9kucWZ4Uz5do94
+NjHUfbMCRcS7SX1ZkhEH6QVHwAvWXp7NlUjk16/lrlby/Djmn3FxzJs4+fmn6HmP
+rM0GkO5EMpfTixqaQxVNlH/sEsKIIiFh278US1RqiELve672qoQYymGbWVbMGQ03
+HhljZkIAnWWpEORgCyNxjWDW2hi7/FeeN6JzcAl2SoM496i6fcJhD3A7qNqukByG
+zVpWHzOlLTk4LEZpGvD9v2KPfFQQWUr7PKKBAyDyxnTkwKga9tHiRCn6mH/8T/jI
+KJDaM9fatmy6tk+gJDzwSlctWpGQe8y128YsjP1SmeWzQyvRAvfYNrcmGFxVnIU/
+9LV9T36ZqXuKf4q5sIdazjbUZmFyOigP5w/t6JYPEyd9J8Wok7fHG4kO0iEd6UFC
+oKi4tNWGiLvwtx9y1bwcRuvOAcisYR6PFvTfaLq36C6gZlP7Uf4=
+=fA83
+-----END PGP SIGNATURE-----
